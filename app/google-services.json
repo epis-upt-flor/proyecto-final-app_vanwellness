@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38361949014",
+    "project_id": "exerclock-6dd2a",
+    "storage_bucket": "exerclock-6dd2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38361949014:android:dcbe0a0f509e79dc346cf7",
+        "android_client_info": {
+          "package_name": "com.icedigital.exerclock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-scY2YhCtoHeyX3XodCSNwM7KVx9wNyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
